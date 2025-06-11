@@ -27,9 +27,8 @@ Currently, I'm diving into Java, C#, Python, HTML, CSS and JavaScript.
 ### 🧑‍💻 About Me
 
 - 🎓 Studying Systems Analysis and Development  
-- 💡 Passionate about technology and software development  
 - 🚀 Looking for internship or junior opportunities  
-- 🎯 Currently focused on Java, C# and Web Development  
+- 🎯 Currently focused on Java, Python and Web Development  
 
 ---
 
@@ -39,7 +38,7 @@ Currently, I'm diving into Java, C#, Python, HTML, CSS and JavaScript.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/DBeaver_logo.png" alt="DBeaver" width="40" />
+  <img src="https://techicons.dev/icons/dbeaver" alt="DBeaver" width="40" />
 </p>
 
 ---
