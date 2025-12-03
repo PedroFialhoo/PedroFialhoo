@@ -47,8 +47,8 @@ Currently, I'm diving into Java, C#, Python, HTML, CSS and JavaScript.
 ### 🚀 Featured Projects
 
 - 🥙 [UaiFood](https://github.com/PedroFialhoo/UaiFood) - Delivery system developed in C#, simulating order flow and management  
-- 📸 [Event](https://github.com/PedroFialhoo/Event) — Event management system using C#, with user login and event registration
-- 💪 [GymProfile](https://github.com/PedroFialhoo/GymProfile) — Training profile system in Java for managing workout sheets
+- 🏫 [SchoolLink - Frontend](https://github.com/PedroFialhoo/schoollink_frontend) — School management system built in React
+- 🏫 [SchoolLink - Backend](https://github.com/PedroFialhoo/schoollink_backend) — School management system built in SpringBoot
 - 🧟 [AimZombie](https://github.com/PedroFialhoo/AimZombie) — Mini Python game where the player faces zombies, focusing on aiming and quick reflexes
 
 ---
