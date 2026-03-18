@@ -6,7 +6,7 @@
 
 ### 👋 Hello! I'm Pedro, a beginner developer exploring the tech world. Welcome to my GitHub profile!
 
-Currently, I'm diving into Java, C#, Python, HTML, CSS and JavaScript.
+Currently, I'm diving into React, Java, Python and TypeScript.
 
 ---
 
