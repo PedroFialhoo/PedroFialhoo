@@ -4,14 +4,6 @@
   <img src="https://github.com/PedroFialhoo/PedroFialhoo/blob/main/banner.jpg?raw=true" alt="welcome banner" />
 </p>
 
-### 👋 Hello! I'm Pedro, a beginner developer exploring the tech world. Welcome to my GitHub profile!
-
-Currently, I'm diving into React, Java, Python and TypeScript.
-
----
-
----
-
 ### 💻 Frameworks, Languages & Databases 
 
 <p align="left">
