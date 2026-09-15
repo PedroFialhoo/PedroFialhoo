@@ -56,12 +56,11 @@
 - 🧟 [AimZombie](https://github.com/PedroFialhoo/AimZombie) — Mini Python game where the player faces zombies, focusing on aiming and quick reflexes
 
 ---
-
 ### 📊 GitHub Stats
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroFialhoo&show_icons=true&theme=radical)
+![Pedro's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=PedroFialhoo&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFialhoo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=PedroFialhoo&layout=compact&theme=radical)
 
 ---
 
