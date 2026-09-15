@@ -58,7 +58,7 @@
 ---
 ### 📊 GitHub Stats
 
-![Pedro's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=PedroFialhoo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=PedroFialhoo&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=PedroFialhoo&layout=compact&theme=radical)
 
